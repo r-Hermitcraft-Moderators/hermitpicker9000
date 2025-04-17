@@ -91,14 +91,6 @@ $(document).ready(function() {
       "traits": ["redstone", "calm", "whizkid", "lore", "lightediting", "male", "US", "streamer", "bigchannel", "regularreleases", "S3", "S4", "S5", "S6", "S7", "S8", "S9"]
     },
     {
-      "name":"iskall85",
-      "img":"iskall",
-      "youtube":"Iskall85",
-      "twitch":"iskall85",
-      "twitter":"iskall85",
-      "traits": ["builder", "redstone", "derpy", "hyper", "lore", "lightediting", "alteregos", "bigchannel", "male", "Europe", "streamer", "regularreleases", "S4", "S5", "S6", "S7", "S8", "Modded", "Architech", "S9"]
-    },
-    {
       "name":"Joe Hills",
       "img":"joehills",
       "youtube":"joehillstsd",
@@ -139,28 +131,12 @@ $(document).ready(function() {
       "traits": ["builder", "hyper", "derpy", "lore", "heavyediting", "alteregos", "male", "Europe", "streamer", "regularreleases", "S4", "S5", "S6", "S7", "S8", "Modded", "S9"]
     },
     {
-      "name":"Stressmonster101",
-      "img":"stress",
-      "youtube":"stressmonster101",
-      "twitch":"stressmonster",
-      "twitter":"stressmonsterin",
-      "traits": ["builder", "hyper", "derpy", "lore", "lightediting", "smallchannel", "female", "Europe", "streamer", "regularreleases", "S5", "S6", "S7", "S8", "S9"]
-    },
-    {
       "name":"Tango Tek",
       "img":"tango",
       "youtube":"TangoTekLP",
       "twitch":"tangotek",
       "twitter":"TangoTekLP",
       "traits": ["redstone", "hyper", "derpy", "whizkid", "heavyediting", "male", "US", "streamer", "bigchannel", "regularreleases", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9"]
-    },
-    {
-      "name":"Tinfoil Chef",
-      "img":"tfc",
-      "youtube":"selif1",
-      "twitch":"tinfoilchef",
-      "twitter":"tinfoilchef",
-      "traits": ["builder", "calm", "lightediting", "smallchannel", "male", "US", "regularreleases", "diversecontent", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "Modded", "S9"]
     },
     {
       "name":"VintageBeef",
