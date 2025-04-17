@@ -23,6 +23,7 @@ $(document).ready(function() {
       "youtube": "bdoubleo100",
       "twitch": "bdoubleo",
       "twitter": "BdoubleO100",
+      "bluesky": "bdoubleo.bsky.social",
       "traits": ["builder", "hyper", "derpy", "lore", "heavyediting", "bigchannel", "male", "US", "regularreleases", "mostlyminecraft", "S1", "S5", "S6", "S7", "S8", "NHO", "IDEA", "S9", "S10"]
     },
     {
@@ -31,6 +32,7 @@ $(document).ready(function() {
       "youtube":"cubfan135",
       "twitch":"cubfan135",
       "twitter":"cubfan135",
+      "bluesky": "thatcubfan135.bsky.social",
       "traits": ["builder", "redstone", "calm", "whizkid", "lore", "lightediting", "male", "US", "streamer", "regularreleases", "mostlyminecraft", "S4", "S5", "S6", "S7", "S8", "Modded", "Concorp", "S9", "S10"]
     },
     {
@@ -55,6 +57,7 @@ $(document).ready(function() {
       "youtube":"FalseSymmetry",
       "twitch":"FalseSymmetry",
       "twitter":"falsesymmetry",
+      "bluesky": "falsesymmetry.bsky.social",
       "traits": ["builder", "calm", "derpy", "lore", "lightediting", "smallchannel", "female", "Europe", "streamer", "regularreleases", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9", "S10"]
     },
     {
@@ -63,6 +66,7 @@ $(document).ready(function() {
       "youtube":"c/GeminiTayMC",
       "twitch":"geminitay",
       "twitter":"geminitaymc",
+      "bluesky": "geminitaymc.bsky.social",
       "traits": ["builder", "calm", "whizkid", "lightediting", "female", "US", "streamer", "bigchannel", "regularreleases", "S8", "Modded", "S9", "S10"]
     },
     {
@@ -95,6 +99,7 @@ $(document).ready(function() {
       "youtube":"ijevin",
       "twitch":"ijevin",
       "twitter":"ijevin",
+      "bluesky": "ijevin.bsky.social",
       "traits": ["builder", "redstone", "hyper", "lore", "lightediting", "male", "US", "streamer", "regularreleases", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9", "S10"]
     },
     {
@@ -103,6 +108,7 @@ $(document).ready(function() {
       "youtube":"impulseSV",
       "twitch":"impulsesv",
       "twitter":"impulseSV",
+      "bluesky": "impulsesv.bsky.social",
       "traits": ["redstone", "calm", "whizkid", "lore", "lightediting", "male", "US", "streamer", "bigchannel", "regularreleases", "S3", "S4", "S5", "S6", "S7", "S8", "S9", "S10"]
     },
     {
@@ -111,6 +117,7 @@ $(document).ready(function() {
       "youtube":"joehillstsd",
       "twitch":"joehills",
       "twitter":"joehills",
+      "bluesky": "joehills.net",
       "traits": ["builder", "calm", "whizkid", "lore", "lightediting", "smallchannel", "male", "US", "streamer", "regularreleases", "S1", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9", "S10"]
     },
     {
@@ -119,6 +126,7 @@ $(document).ready(function() {
       "youtube":"keralis",
       "twitch":"keralis",
       "twitter":"worldofkeralis",
+      "bluesky": "keralis.bsky.social",
       "traits": ["builder", "calm", "derpy", "lore", "heavyediting", "bigchannel", "male", "Europe", "regularreleases", "diversecontent", "S1", "S2", "S3", "S6", "S7", "S8", "Modded","IDEA", "S9", "S10"]
     },
     {
@@ -135,6 +143,7 @@ $(document).ready(function() {
       "youtube":"c/pearlescentmoon",
       "twitch":"pearlescentmoon",
       "twitter":"pearlescentmoon",
+      "bluesky": "pearlescentmoon.bsky.social",
       "traits": ["builder", "lore", "lightediting", "female", "Oceania", "streamer", "regularreleases", "diversecontent", "S8", "Modded", "S9", "S10"]
     },
     {
@@ -175,6 +184,7 @@ $(document).ready(function() {
       "youtube":"vintagebeef",
       "twitch":"vintagebeef",
       "twitter":"vintagebeeflp",
+      "bluesky": "vintagebeef.bsky.social",
       "traits": ["builder", "calm", "lore", "lightediting", "bigchannel", "male", "US", "regularreleases", "diversecontent", "S4", "S5", "S7", "S8", "Modded", "NHO", "S9", "S10"]
     },
     {
@@ -183,6 +193,7 @@ $(document).ready(function() {
       "youtube":"welsknightgaming",
       "twitch":"welsknight",
       "twitter":"welsknightplays",
+      "bluesky": "welsknight.bsky.social",
       "traits": ["builder", "calm", "lightediting", "alteregos", "male", "US", "regularreleases", "diversecontent", "S2", "S3", "S5", "S7", "S8", "Modded", "S9", "S10"]
     },
     {
@@ -191,6 +202,7 @@ $(document).ready(function() {
       "youtube":"xbxaxcx",
       "twitch":"xbcrafted",
       "twitter":"xBCrafted",
+      "bluesky": "xbcrafted.com",
       "traits": ["builder", "calm", "derpy", "lightediting", "smallchannel", "male", "US", "streamer", "regularreleases", "diversecontent", "S2", "S3", "S5", "S7", "S8", "Modded", "S9", "S10"]
     },
     {
@@ -199,6 +211,7 @@ $(document).ready(function() {
       "youtube":"xisumavoid",
       "twitch":"xisuma",
       "twitter":"xisumavoid",
+      "bluesky": "xisumavoid.com",
       "traits": ["builder", "redstone", "calm", "derpy", "lightediting", "alteregos", "bigchannel", "male", "Europe", "streamer", "regularreleases", "S1", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "Modded", "IDEA", "S9", "S10"]
     },
     {
@@ -207,6 +220,7 @@ $(document).ready(function() {
       "youtube":"zedaphplays",
       "twitch":"ZedaphPlays",
       "twitter":"ZedaphPlays",
+      "bluesky": "zedaph.com",
       "traits": ["builder", "redstone", "hyper", "derpy", "whizkid", "heavyediting", "alteregos", "smallchannel", "male", "Europe", "streamer", "S5", "S6", "S7", "S8", "S9", "S10"]
     },
     {
@@ -215,7 +229,8 @@ $(document).ready(function() {
       "youtube":"zombiecleo",
       "twitch":"zombiecleo",
       "twitter":"zombiecleo",
-      "traits": ["builder", "hyper", "whizkid", "lore", "heavyediting", "smallchannel", "female", "Europe", "regularreleases", "diversecontent", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9"]
+      "bluesky": "zombiecleo.bsky.social",
+      "traits": ["builder", "hyper", "whizkid", "lore", "heavyediting", "smallchannel", "female", "Europe", "regularreleases", "diversecontent", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9", "S10"]
     }
   ]
 
@@ -231,11 +246,23 @@ $(document).ready(function() {
     str += Hermits[i].name;
     str += "</div><div class=\"channels\"><a href=\"https://youtube.com/";
     str += Hermits[i].youtube;
-    str += "\">Youtube</a> <a href=\"https://twitch.tv/";
-    str += Hermits[i].twitch;
-    str += "\">Twitch</a> <a href=\"https://twitter.com/";
-    str += Hermits[i].twitter;
-    str += "\">Twitter</a></div></div>";
+    str += "\">YouTube</a> ";
+    if ("twitch" in Hermits[i]){
+      str += "<a href=\"https://twitch.tv/";
+      str += Hermits[i].twitch;
+      str += "\">Twitch</a> ";
+    }
+    if ("twitter" in Hermits[i]){
+      str += "<a href=\"https://twitter.com/";
+      str += Hermits[i].twitter;
+      str += "\">Twitter</a> ";
+    }
+    if ("bluesky" in Hermits[i]){
+      str += "<a href=\"https://bsky.app/profile/";
+      str += Hermits[i].bluesky;
+      str += "\">Bluesky</a> ";
+    }
+    str += "</div></div>";
   }
   $("#hermitlist").append(str);
   $('.hermitblock').hide();
